@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Libre+Baskerville|Poppins&display=swap');
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   height: 2000px;
+}
+
+button {
+   cursor: pointer;
+}
+
+.nav { 
+   position: fixed;
+   width: 25%;
+   height: 100%;
+}
+
+.left-nav {
+   position: absolute;
+   padding: 20px;
+   left: 50%;
+   top: 5%;
+   transform: translateX(-50%);
+}
+
+.profile-div img {
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+}
+
+.line {
+   border-right: 1px solid rgba(0, 0, 0, 0.5);
+   position: fixed;
+   top: 50px;
+   width: 345px;
+   height: 500px;
+}
+
+.name-div h3 {
+   text-align: center;
+   margin: 10px;
+   font-family: 'Crimson Text', serif;
+   letter-spacing: 1px;
+   color: #343434;
+}
+
+.name-div p {
+   color: #959595;
+   text-align: center;
+   font-size: 12px;
+   font-family: 'Poppins', sans-serif;
+}
+
+/*! ////////////////////////////////////////////////////////////////////////// */
+.nav-div {
+   margin-top: 40px;
+}
+
+.nav-div ul {
+   list-style: none;
+   margin:0;
+   font-family: 'Poppins', sans-serif;
+   font-size: 16px;
+ }
+
+ .nav-div ul li {
+   display: flex;
+   justify-content: center;
+   margin: 5px;
+ }
+
+ .nav-div ul li a {
+   padding-bottom: 5px;
+   text-decoration: none;
+   color: #959595;
+ }
+
+ .nav-div ul li a,
+ .nav-div ul li a:after,
+ .nav-div ul li a:before {
+   transition: all .5s;
+ }
+
+ .nav-div ul li a:hover {
+   color:rgb(0, 81, 255);
+ }
+
+/* stroke */
+.nav-div ul li a {
+  position: relative;
+}
+
+.nav-div ul li a:after,
+.nav-div ul li a:after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0%;
+  content: '.';
+  color: transparent;
+  background: rgb(0, 81, 255);
+  height: 1px;
+}
+
+.nav-div ul li a:hover:after {
+  width: 100%;
+}
+
+.nav-div ul li a {
+  transition: all 1s;
+}
+
+.nav-div ul li a:after {
+  text-align: left;
+  content: '.';
+  margin: 0;
+  opacity: 0;
+}
+
+.nav-div ul li a:hover {
+  color: rgb(0, 81, 255);
+  z-index: 1;
+}
+
+.nav-div ul li a:hover:after {
+  z-index: -10;
+  animation: fill 1s forwards;
+  opacity: 1;
+}
+
+
+/*! ////////////////////////////////////////////////////////////////////////// */
+
+
+.img1-div img {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   width: 900px;
+}
+
+.h1-div {
+   position: absolute;
+   left: 30%;
+   top: 30%;
+}
+
+.h1-div h2 {
+   font-size: 40px;
+   font-family: Libre Baskerville;
+   color: #343434;
+}
+
+.h1-div p {
+   color: #959595;
+   position: absolute;
+   right: 0;
+   font-size: 12px;
+   font-family: 'Poppins', sans-serif;
+}
+
+.btn1-div {
+   position: absolute;
+   left: 30%;
+   top: 70%;
+}
+
+
+/* !---Button Hover  Effect---! */
+
+.button12 {
+   cursor: pointer;
+   background-color: #343434;
+   width: 330px;
+   height: 64px;
+   padding:20px 50px;
+   line-height: 64px;
+   position: relative;
+   transform: translate(-50%, -50%);
+   -webkit-transform: translate(-50%, -50%);
+   z-index: 0;
+   background:#343434;
+   
+ }
+ .button12 span {
+   color: #fff;
+   display: inline-block;
+   padding-left: 35px;
+   text-transform: uppercase;
+   font-family: 'Poppins', sans-serif;
+   transform: scaleX(0.6);
+   letter-spacing: 3px;
+   transform-origin: center left;
+   transition: color 0.3s ease;
+   position: relative;
+   z-index: 1;
+ }
+ .button12 em {
+   position: absolute;
+   height: 1px;
+   background: #fff;
+   width: 47%;
+   right: 23px;
+   top: 50%;
+   transform: scaleX(0.25);
+    -webkit-transform:scaleX(0.25);
+   transform-origin: center right;
+   transition: all 0.3s ease;
+   z-index: 1;
+ }
+ .button12:before,
+ .button12:after {
+   content: '';
+   background: #fff;
+   height: 50%;
+   width: 0;
+   position: absolute;
+   transition: 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+   -webkit-transition:0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+ }
+ .button12:before {
+   top: 0;
+   left: 0;
+   right: auto;
+ }
+ .button12:after {
+   bottom: 0;
+   right: 0;
+   left: auto;
+ }
+ .button12:hover:before {
+   width: 100%;
+   right: 0;
+   left: auto;
+ }
+ .button12:hover:after {
+   width: 100%;
+   left: 0;
+   right: auto;
+ }
+ .button12:hover span {
+   color: #000;
+ }
+ .button12:hover em {
+   background: #000;
+   transform: scaleX(.51);
+   transform: scaleX(.51);
+ }
+
+ .fa-download {
+    z-index: 100;
+ }
+ 
+/* !---Button Hover  Effect---! */
+
+
+.active {
+   color: rgb(0, 81, 255) !important;
+   
+}
