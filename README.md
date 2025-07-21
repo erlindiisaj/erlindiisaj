@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Erlindi Isaj
 
 🎓 **Computer Engineer** | 🧠 **Problem Solver** | 🌍 **Tech Enthusiast**  
-💼 Former Software Engineer @ Clickservice GmbH | 🚀 Currently building @ Foyer  
+💼 Software Developer @ Clickservice GmbH  
 🌐 [erlindiisaj.com](https://www.erlindiisaj.com) | 📫 contact@erlindiisaj.com
 
 ---
