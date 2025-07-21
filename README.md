@@ -56,8 +56,8 @@ Over the past years, I’ve contributed to both frontend and backend projects, d
 
 ## 📊 GitHub Stats
 
-![Erlindi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlindisaj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlindisaj&layout=compact&theme=radical)
+![Erlindi's GitHub Stats](https://github-readme-stats-tau-roan-97.vercel.app/api?username=erlindisaj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-tau-roan-97.vercel.app/api/top-langs/?username=erlindisaj&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=erlindisaj&theme=radical)
 
 ---
