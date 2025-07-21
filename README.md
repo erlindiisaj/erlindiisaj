@@ -52,13 +52,6 @@ Over the past years, I’ve contributed to both frontend and backend projects, d
 - 🗨️ [Social Media App](https://social-media-app-alpha-three.vercel.app/) – Sleek UI and real-time communication  
 - 🌐 [Personal Portfolio](https://www.erlindiisaj.com/) – A full view of my projects and background
 
----
-
-## 📊 GitHub Stats
-
-![Erlindi's GitHub Stats](https://github-readme-stats-erlindiisajs-projects.vercel.app/api?username=erlindisaj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-erlindiisajs-projects.vercel.app/api/top-langs/?username=erlindisaj&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=erlindisaj&theme=radical)
 
 ---
 
