@@ -24,9 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly skilled Computer Engineer with extensive experience in developing and optimizing systems to solve complex performance, scalability, and technical challenges.  
-Over the past years, I have designed and implemented robust backend architectures, as well as full-stack applications, driving efficiency and innovation within organizations.  
-With a deep understanding of both software development and infrastructure, I bridge the gap between engineering teams and business needs, delivering solutions that are scalable, reliable, and secure.
+I am a highly skilled Computer Engineer with extensive experience in developing and optimizing systems to solve complex performance, scalability, and technical challenges. Over the past years, I have designed and implemented robust backend architectures, as well as full-stack applications, driving efficiency and innovation within organizations. With a deep understanding of both software development and infrastructure, I bridge the gap between engineering teams and business needs, delivering solutions that are scalable, reliable, and secure.
 
 <br><br>
 
