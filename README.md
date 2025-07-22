@@ -1,67 +1,80 @@
-# 👋 Hi, I'm Erlindi Isaj
+<h1 align="center">Hi, I'm Erlindi Isaj 👋</h1>
+<h3 align="center">Computer Engineer</h3>
+<p align="center"><em>“Design with clarity. Build with purpose. Deliver with impact.”</em></p>
 
-🎓 **Computer Engineer** | 🧠 **Problem Solver** | 🌍 **Tech Enthusiast**  
-💼 Software Developer @ Clickservice GmbH  
-🌐 [erlindiisaj.com](https://www.erlindiisaj.com) | 📫 contact@erlindiisaj.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=erlindiisaj&theme=dark" alt="GitHub streak stats" />
+</p>
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erlindiisaj&show_icons=true&theme=transparent&hide_border=false&custom_title=My%20GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlindiisaj&layout=compact&theme=transparent&hide_border=false&custom_title=Most%20Used%20Languages" />
+</p>
 
-## 🧭 About Me
+<br><br>
 
-I'm a highly skilled Computer Engineer with hands-on experience in building scalable web applications, designing backend architectures, and crafting modern user interfaces. I bridge the gap between design and engineering, ensuring both performance and user experience are top-notch.  
+## 🎓 Education
 
-Over the past years, I’ve contributed to both frontend and backend projects, developed full-stack systems, and led UX efforts in cross-functional teams.
-
----
-
-## 💻 Tech Stack
-
-**Languages & Frameworks**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 🛠️ Core Competencies
-
-- 🧠 Backend & API Development (Django, C#)
-- 🌐 Full-Stack Web Applications
-- 🎨 UX/UI Design Principles
-- ⚙️ Databases & System Integration
-- 🔄 Agile, DevOps, and Containerization
-- 🗣️ Multilingual Communication (Albanian 🇦🇱, English 🇬🇧, Turkish 🇹🇷)
-
----
-
-## 🚀 Featured Projects
-
-- 🔌 [IoT Automation System](https://github.com/erlindiisaj/IoT-Project) – Smart automation using IoT technologies  
-- 🏎️ [MANA Rental Dashboard](https://manarental-frontend.vercel.app/) – Scalable car rental management app  
-- 🧑‍🎓 [Student Information System](https://github.com/erlindiisaj/Student_Information-_System-UBYS) – Student records and grading  
-- 🛒 [E-Commerce Store v2](https://e-commerce-v2-black.vercel.app/) – Modern shopping interface with Firebase  
-- 🗨️ [Social Media App](https://social-media-app-alpha-three.vercel.app/) – Sleek UI and real-time communication  
-- 🌐 [Personal Portfolio](https://www.erlindiisaj.com/) – A full view of my projects and background
+**Bachelor in Computer Engineering**  
+Çanakkale Onsekiz Mart University – Turkey *(2021–2025)*
 
 
----
+<br><br>
 
-## 📫 Let's Connect
+## 👨‍💻 About Me
 
-- 🌐 Website: [erlindiisaj.com](https://www.erlindiisaj.com)
-- 📧 Email: contact@erlindiisaj.com
-- 💼 LinkedIn: *Coming Soon?*  
-- 💬 Languages: Albanian (Native), English (B2), Turkish (C1)
+I am a highly skilled Computer Engineer with extensive experience in developing and optimizing systems to solve complex performance, scalability, and technical challenges.  
+Over the past years, I have designed and implemented robust backend architectures, as well as full-stack applications, driving efficiency and innovation within organizations.  
+With a deep understanding of both software development and infrastructure, I bridge the gap between engineering teams and business needs, delivering solutions that are scalable, reliable, and secure.
 
----
+<br><br>
 
-_“Design with clarity. Build with purpose. Deliver with impact.”_
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,dotnet,py,ts,react,html,css,js,postgres,git,github,docker" />
+</p>
+
+- 💻 **Languages:** Python, C#, TypeScript, JavaScript, HTML5, CSS3, SQL  
+- 🌐 **Frameworks:** Django, React.js  
+- 🗄️ **Databases:** MSSQL, PostgreSQL  
+- 🔧 **Tools:** Git, GitHub, Docker  
+- 🎨 **UX/UI:** Strong understanding of design principles & usability
+
+<br><br>
+
+## 🚀 Projects
+
+- 🔌 [**IoT-Project**](https://github.com/erlindiisaj/IoT-Project) – An IoT-based automation system with real-time device monitoring.  
+- 🚗 [**ManaRental**](https://manarental-frontend.vercel.app/) – Dashboard app for car rental management *(in progress)*.  
+- 📱 [**Social Media App**](https://social-media-app-alpha-three.vercel.app/) – A modern and user-friendly social platform.  
+- 🛍️ [**E-Commerce v2**](https://e-commerce-v2-black.vercel.app/) – Online store using React and Firebase.  
+- 🎓 [**Student Information System**](https://github.com/erlindiisaj/Student_Information-_System-UBYS) – Complete university student data system.  
+- 🌐 [**Personal Portfolio**](https://www.erlindiisaj.com/) – My portfolio website showcasing my work and profile.
+
+<br><br>
+
+## 🌐 Languages
+
+- 🇦🇱 **Albanian** (Native)  
+- 🇬🇧 **English** (B2 – Technical/Conversational)  
+- 🇹🇷 **Turkish** (C1 – Technical/Conversational)
+
+<br><br>
+
+## 📜 Certifications
+
+- ✅ Udemy: The Complete Web Developer – ZTM  
+- ✅ Udemy: Complete React Developer – ZTM
+
+<br><br>
+
+## 📫 Contact Me
+
+- ✉️ **Email:** [contact@erlindiisaj.com](mailto:contact@erlindiisaj.com)  
+- 🌍 **Website:** [www.erlindiisaj.com](https://www.erlindiisaj.com)
+
+
+<p align="center">
+  <em>Thanks for stopping by! Let's build something great together.</em>
+</p>
