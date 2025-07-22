@@ -3,9 +3,7 @@
 <p align="center"><em>“Design with clarity. Build with purpose. Deliver with impact.”</em></p>
 <br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=erlindiisaj&theme=dark" alt="GitHub streak stats" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erlindiisaj&show_icons=true&theme=transparent&hide_border=false&custom_title=My%20GitHub%20Stats" />
